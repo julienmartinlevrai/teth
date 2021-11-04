@@ -4,7 +4,7 @@ Trap your ETH in this contract so it can never be recovered.
 
 ## Why
 
-Trapping your ETH is the best way to give back to the Ethereum community. Sending funds to this contract is equivalent to burning them, which makes ETH more scarce, which makes it more valuable. When you burn ETH, evey ETH holder benefits proportionally to their holdings.
+Trapping your ETH is the best way to give back to the Ethereum community. Sending funds to this contract is equivalent to burning them, which makes ETH more scarce, which makes it more valuable. When you trap ETH, evey ETH holder benefits proportionally to their holdings.
 
 ## Why not just send it to `address(0)` or to any other contract
 
